@@ -3,6 +3,10 @@ Sam Peppou-Chapman
 #School of Chemistry, The University of Sydney
 #2022
 
+Modified by Chris Vega
+#Tecnologico de Costa Rica
+#2022
+
 This script is used to calculate detect the pressence of a lubricant layer and 
 an air layer in AFM force-distance curves.
 
