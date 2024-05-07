@@ -4,11 +4,13 @@ authors:
 - family-names: "Peppou-Chapman"
   given-names: "Sam"
   orcid: "https://orcid.org/0000-0001-8646-7661"
+- family-names: "Vega-Sánchez"
+  given-names: "Chistopher"
+  orcid: "http://orcid.org/0000-0002-2174-8291"
 - family-names: "Neto"
   given-names: "Chiara"
   orcid: "https://orcid.org/0000-0001-6058-0885"
 title: "AFM_Nanobubble_Mapping"
-version: 1.0.0
-doi: 10.5281/zenodo.5573568
-date-released: 2021-10-15
-url: "https://github.com/speppou/AFM_Nanobubble_Mapping"
+version: 1.0.1
+date-released: 2022
+url: "https://github.com/cvegas553/nanobubbles"
